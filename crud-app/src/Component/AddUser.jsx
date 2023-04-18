@@ -119,7 +119,7 @@ const AddUser = () => {
     return (
         <Container>
 
-             <Typography variant="h4">Add Users</Typography>
+             <Typography variant="h4">Add Booking</Typography>
             <Form onSubmit={handleSubmit}>
                 <Grid container>
                     <Grid item xs={12}>
